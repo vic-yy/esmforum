@@ -15,7 +15,21 @@ No backlog do produto contido no link acima, a história do topo é a seguinte:
 Faça então o que se pede abaixo:
 
 1. Proponha um conjunto de tarefas para concluir a implementação dessa história. 
-
+ 
 2. Proponha um conjunto de critérios para aceitação dessa história. Para conferir os critérios de aceitação das histórias do sprint 1, basta clicar nelas, na coluna Histórias do Sprint, no GitHub Projects.
+-
 
 Se preferir, você pode criar um novo projeto no Projects, chamado "ESM Forum - Sprint 2", e cadastrar essa história e suas tarefas nele, assim como fizemos para as histórias do primeiro sprint.
+
+
+
+Tarefas:
+
+Critérios de aceite:
+- Adicionar a função de edição de perguntas
+    - Editar 3 das pergunta existentes
+    - Reiniciar a aplicação e verificar se as alterações no banco de dados permanecerão
+
+- Adicionar a função de remoção de perguntas
+    - Remover 3 das perguntas existentes
+    - Reiniciar a Aplicação e verificas se as alterações no banco de dados permanecerão apagadas
